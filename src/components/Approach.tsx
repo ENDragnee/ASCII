@@ -12,7 +12,7 @@ export default function Approach() {
       <div className="container mx-auto px-6">
         <h2 className="text-3xl font-bold text-center mb-8 text-white">How We Work: Fast, Simple, and Quality</h2>
         <p className="text-[#7c818c] text-center max-w-2xl mx-auto mb-12">
-          At Aascii, we don't believe in complicating things. Our approach is all about creating simple, clean systems that work well. We listen to you, understand what you need, and build solutions that get the job done—quickly, effectively, and with quality you can trust.
+          At AASCII, we don't believe in complicating things. Our approach is all about creating simple, clean systems that work well. We listen to you, understand what you need, and build solutions that get the job done—quickly, effectively, and with quality you can trust.
         </p>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {features.map((feature, index) => (
