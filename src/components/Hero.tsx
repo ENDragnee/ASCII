@@ -11,7 +11,7 @@ export default function Hero() {
             See Our Work
           </Link>
           <Link href="#about" className="bg-transparent hover:bg-[#5294e2] text-[#5294e2] hover:text-white font-bold py-2 px-4 rounded-full border border-[#5294e2] morph-transition">
-            Learn More About Us
+            About Us
           </Link>
         </div>
       </div>
